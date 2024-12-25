@@ -1,4 +1,4 @@
-FROM ziglang/zig:0.13.0
+FROM vhyran/zig-alpine
 
 WORKDIR /app
 
